@@ -21,10 +21,12 @@
 ---
 
 - 3rd step: write this code:
+
 ` source ~/catkin_ws/devel/setup.bash `
 
 
 ---
+
 - 4th step: open a new terminal from file - new tap. 
 
 ---
@@ -34,6 +36,9 @@
 ``` export TURTLEBOT3_MODEL=burger
 roslaunch turtlebot3_gazebo turtlebot3_world.launch 
 ```
+
+---
+
 now the gazebo will work as it shown in the photo.
 
 ---
