@@ -83,7 +83,7 @@ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
 ---
 
-- and this is how it will look like.
+- and this is how it will looks like.
 
 
 ---
