@@ -6,9 +6,10 @@
 
 - 1st: step: in the terminal write this code to install turtlebot3 packages:
 
-``` sudo apt-get install ros-melodic-dynamixel-sdk
- sudo apt-get install ros-melodic-turtlebot3-msgs
- sudo apt-get install ros-melodic-turtlebot3 
+``` 
+sudo apt-get install ros-melodic-dynamixel-sdk
+sudo apt-get install ros-melodic-turtlebot3-msgs
+sudo apt-get install ros-melodic-turtlebot3 
  ```
 
 ---
