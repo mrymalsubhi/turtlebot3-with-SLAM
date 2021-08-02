@@ -33,7 +33,8 @@
 
 - 5th step: after you opend a new terminal, now you are ready to launch Simulation World by typing this code: 
 
-``` export TURTLEBOT3_MODEL=burger
+``` 
+export TURTLEBOT3_MODEL=burger
 roslaunch turtlebot3_gazebo turtlebot3_world.launch 
 ```
 
@@ -48,7 +49,8 @@ now the gazebo will work as it shown in the photo.
 ---
 
 - 6th step: open a new terminal from file - new tap. Control the robot movement by typing this code:
-``` export TURTLEBOT3_MODEL=waffle_pi
+```
+export TURTLEBOT3_MODEL=waffle_pi
 
 roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
@@ -59,8 +61,9 @@ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ---
 
 - 7th step: Launch the SLAM Node: in a new terminal file - new tap. run this code:
-``` export TURTLEBOT3_MODEL=burger
- roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping 
+```
+export TURTLEBOT3_MODEL=burger
+roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping 
 ```
 ---
 
