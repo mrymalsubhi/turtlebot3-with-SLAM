@@ -52,7 +52,7 @@ now the gazebo will work as it shown in the photo.
 
 - 6th step: open a new terminal from file - new tap. Control the robot movement by typing this code:
 ```
-export TURTLEBOT3_MODEL=waffle_pi
+export TURTLEBOT3_MODEL=burger
 
 roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
