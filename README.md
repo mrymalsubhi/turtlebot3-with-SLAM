@@ -69,7 +69,8 @@ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ```
 ---
 
-![IMG_6879](https://user-images.githubusercontent.com/85639068/127823740-010bffa2-179e-46b8-91ab-5fbb463d84ed.jpg)
+![IMG_6878](https://user-images.githubusercontent.com/85639068/127826090-70773b14-ad6f-40e7-b822-c5230943246d.jpg)
+
 
 ---
 - 8th step: and finally to save the map, run this code: 
