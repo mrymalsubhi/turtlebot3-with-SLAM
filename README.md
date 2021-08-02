@@ -15,9 +15,10 @@ sudo apt-get install ros-melodic-turtlebot3
 ---
 
 - 2nd step: install Simulation packages:
-```cd ~/catkin_ws/src/
- git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
- cd ~/catkin_ws && catkin_make
+```
+cd ~/catkin_ws/src/
+git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+cd ~/catkin_ws && catkin_make
 ```
 ---
 
