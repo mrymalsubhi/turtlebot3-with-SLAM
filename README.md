@@ -73,8 +73,10 @@ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
 
 ---
-- 8th step: and finally to save the map, run this code: 
+- 8th step: and finally to save the map, run this code:
+ 
 `rosrun map_server map_saver -f ~/map`
+
 ---
 
 ![IMG_6880](https://user-images.githubusercontent.com/85639068/127824221-efa94ac5-698d-4bcb-9224-a91ec10df713.jpg)
